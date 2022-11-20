@@ -1,5 +1,15 @@
 <channels>
 <channel>
+<name>[B]Rocky Live TV - Teleelevidenie TEST[/B]</name>
+<thumbnail>https://ia601504.us.archive.org/8/items/icon_20220717_202207/icon.png</thumbnail> Small pic
+<externallink>https://raw.githubusercontent.com/RockyBalboa2022/Rocky_Live_TV_Kodi_19/main/Rocky_Live_TV_Teleele.m3u</externallink>
+<fanart>https://ia601502.us.archive.org/22/items/fanart_20220717/fanart.jpg</fanart> Bic pic
+<info>[B]Rocky Live TV[/B]</info>
+</channels>
+</channel>
+
+<channels>
+<channel>
 <name>[B]Rocky Live TV - Enigma 1[/B]</name>
 <thumbnail>https://ia601504.us.archive.org/8/items/icon_20220717_202207/icon.png</thumbnail> Small pic
 <externallink>https://raw.githubusercontent.com/RockyBalboa2022/Rocky_Live_TV_Kodi_19/main/Rocky_Live_TV.m3u</externallink>
@@ -60,9 +70,39 @@
 
 <channels>
 <channel>
-<name>[B]Rocky Live TV 4 - PlusX - OFFLINE[/B]</name>
+<name>[B]Rocky Live TV 4 - PlusX[/B]</name>
 <thumbnail>https://ia601504.us.archive.org/8/items/icon_20220717_202207/icon.png</thumbnail> Small pic
-<externallink>https://raw.githubusercontent.com/Slashimi/slashimi.github.io/main/index.m3u</externallink>
+<externallink>https://raw.githubusercontent.com/RockyBalboa2022/Rocky_Live_TV_Kodi_19/main/Rocky_Live_TV_4.m3u</externallink>
+<fanart>https://ia601502.us.archive.org/22/items/fanart_20220717/fanart.jpg</fanart> Bic pic
+<info>[B]Rocky Live TV[/B]</info>
+</channels>
+</channel>
+
+<channels>
+<channel>
+<name>[B]Rocky Live TV 5 - PlusX[/B]</name>
+<thumbnail>https://ia601504.us.archive.org/8/items/icon_20220717_202207/icon.png</thumbnail> Small pic
+<externallink>https://raw.githubusercontent.com/RockyBalboa2022/Rocky_Live_TV_Kodi_19/main/Rocky_Live_TV_5.m3u</externallink>
+<fanart>https://ia601502.us.archive.org/22/items/fanart_20220717/fanart.jpg</fanart> Bic pic
+<info>[B]Rocky Live TV[/B]</info>
+</channels>
+</channel>
+
+<channels>
+<channel>
+<name>[B]Rocky Live TV 6 - PlusX[/B]</name>
+<thumbnail>https://ia601504.us.archive.org/8/items/icon_20220717_202207/icon.png</thumbnail> Small pic
+<externallink>https://raw.githubusercontent.com/RockyBalboa2022/Rocky_Live_TV_Kodi_19/main/Rocky_Live_TV_6.m3u</externallink>
+<fanart>https://ia601502.us.archive.org/22/items/fanart_20220717/fanart.jpg</fanart> Bic pic
+<info>[B]Rocky Live TV[/B]</info>
+</channels>
+</channel>
+
+<channels>
+<channel>
+<name>[B]Rocky Live TV 7 - PlusX[/B]</name>
+<thumbnail>https://ia601504.us.archive.org/8/items/icon_20220717_202207/icon.png</thumbnail> Small pic
+<externallink>https://raw.githubusercontent.com/RockyBalboa2022/Rocky_Live_TV_Kodi_19/main/Rocky_Live_TV_7.m3u</externallink>
 <fanart>https://ia601502.us.archive.org/22/items/fanart_20220717/fanart.jpg</fanart> Bic pic
 <info>[B]Rocky Live TV[/B]</info>
 </channels>
